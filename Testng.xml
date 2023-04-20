@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1"  parallel="classes" >
+    <test name="Test">
+        <classes>
+            <class name="RemoteTestingDockerHub.Google_On_Edge_Test"/>
+            <class name="RemoteTestingDockerHub.Gmail_On_Chrome_Test"/>
+            <class name="RemoteTestingDockerHub.GoogleDrive_On_FireFox_Test"/>
+        </classes>
+    </test>
+</suite>

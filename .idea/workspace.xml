@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7c8ba81-748d-46e9-b127-3970f493c82e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_351/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_351/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_351/src.zip!/java/lang/reflect/Method.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.7.0/testng-7.7.0-sources.jar!/org/testng/annotations/Test.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2OL7CThHzPD9teWtSEd2ocJ6FbK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;JavaPackageFindUsagesOptions.isClassesUsages&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;Project Files&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Omen/IdeaProjects/SeleniumDockerSample/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Omen/IdeaProjects/SeleniumDockerSample/src/test/java/org/example/Resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.57394636&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Omen\IdeaProjects\SeleniumDockerSample\src\test\java\org\example\Resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Omen\IdeaProjects\SeleniumDockerSample" />
+      <recent name="C:\Users\Omen\IdeaProjects\SeleniumDockerSample\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.RemoteTesting.DockerSample" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Omen/IdeaProjects/SeleniumDockerSample/Testng.xml">
+    <configuration name="dockerScale" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="SeleniumHub-Docker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="dockerScale.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SeleniumHub-Docker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SeleniumHub-Docker" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Omen/IdeaProjects/SeleniumDockerSample/Test-Ng.xml" type="TestNG" nameIsGenerated="true">
+      <module name="SeleniumHub-Docker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Test-Ng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Omen/IdeaProjects/SeleniumDockerSample/Testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumHub-Docker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleServicesHealthCheckGoogleDriveTests.mainG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumHub-Docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.RemoteTesting.DockerSample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.RemoteTesting.DockerSample" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RemoteTesting.DockerSample.GoogleServicesHealthCheckGoogleDriveTests" />
+      <option name="METHOD_NAME" value="mainG" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleServicesHealthCheckTests.mainG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumHub-Docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.RemoteTesting.DockerSample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.RemoteTesting.DockerSample" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RemoteTesting.DockerSample.GoogleServicesHealthCheckTests" />
+      <option name="METHOD_NAME" value="mainG" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumHub-Docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.RemoteTesting.DockerSample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.RemoteTesting.DockerSample" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RemoteTesting.DockerSample.Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Omen/IdeaProjects/SeleniumDockerSample/Testng.xml" />
+        <item itemvalue="Batch.dockerScale" />
+        <item itemvalue="TestNG.Test" />
+        <item itemvalue="TestNG.GoogleServicesHealthCheckTests.mainG" />
+        <item itemvalue="TestNG.GoogleServicesHealthCheckGoogleDriveTests.mainG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7c8ba81-748d-46e9-b127-3970f493c82e" name="Changes" comment="" />
+      <created>1681327880655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681327880655</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumDockerSample$EdgeStandaloneTest.ic" NAME="EdgeStandaloneTest Coverage Results" MODIFIED="1681336348037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.RemoteTesting.DockerSample.*</FILTER>
+    </SUITE>
+  </component>
+</project>
